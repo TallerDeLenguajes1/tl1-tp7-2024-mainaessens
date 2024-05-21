@@ -1,0 +1,15 @@
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\bin\Debug\net8.0\tl1-tp7-2024-mainaessens.exe
+C:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\bin\Debug\net8.0\tl1-tp7-2024-mainaessens.deps.json
+C:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\bin\Debug\net8.0\tl1-tp7-2024-mainaessens.runtimeconfig.json
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\bin\Debug\net8.0\tl1-tp7-2024-mainaessens.dll
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\bin\Debug\net8.0\tl1-tp7-2024-mainaessens.pdb
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\tl1-tp7-2024-mainaessens.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\tl1-tp7-2024-mainaessens.AssemblyInfoInputs.cache
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\tl1-tp7-2024-mainaessens.AssemblyInfo.cs
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\tl1-tp7-2024-mainaessens.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\tl1-tp7-2024-mainaessens.sourcelink.json
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\tl1-tp7-2024-mainaessens.dll
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\refint\tl1-tp7-2024-mainaessens.dll
+c:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\tl1-tp7-2024-mainaessens.pdb
+C:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\tl1-tp7-2024-mainaessens.genruntimeconfig.cache
+C:\Users\Usuario\Documents\FACET\REPOSITORIOS\TP7\tl1-tp7-2024-mainaessens\obj\Debug\net8.0\ref\tl1-tp7-2024-mainaessens.dll
